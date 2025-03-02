@@ -24,7 +24,7 @@ Go to task manager and make sure virtualization is enable: <br/>
 <br />
 <br />
 download virtualBox:  <br/>
-<img src="https://imgur.com/a/Qvo0u7t" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/Qvo0u7t" height="80%" width="80%" 
 <br />
 <br />
 execute the .ex file: <br/>
@@ -32,38 +32,45 @@ execute the .ex file: <br/>
 <br />
 <br />
 agree to the user agreement:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" 
 <br />
 <br />
 :  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" 
 <br />
 <br />
 download ubuntu desktop:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%"
 <br />
 <br />
 open VirtualBox:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="" height="80%" width="80%" 
+<br />
+<br />
 go to machine and click new:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="" height="80%" width="80%" 
+<br />
+<br />
 name your virtual machine, and upload the Iso image:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="" height="80%" width="80%" 
+<br />
+<br />
 set the properties:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="" height="80%" width="80%" 
+<br />
+<br />
 run the virtual machine :  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="" height="80%" width="80%" 
+<br />
+<br />
 select ubuntu safe graphics :  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="" height="80%" width="80%" 
+<br />
+<br />
 Now you have Ubuntu!! :  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="" height="80%" width="80%" 
+<br />
+<br />
 
 <!--
  ```diff

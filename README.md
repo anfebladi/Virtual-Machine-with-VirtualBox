@@ -14,7 +14,7 @@ This project involves setting up and managing virtual machines using Oracle Virt
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (21H2)
+- <b>Windows 11</b> 
 
 <h2>Program walk-through:</h2>
 

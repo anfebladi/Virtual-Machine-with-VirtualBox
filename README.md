@@ -18,57 +18,58 @@ This project involves setting up and managing virtual machines using Oracle Virt
 
 <h2>Program walk-through:</h2>
 
+
 <p align="center">
+<br />
+<br />
 Go to task manager and make sure virtualization is enable: <br/>
-<img src="https://imgur.com/98sZAVA" height="80%" width="80%" 
+ <img src="<a href="https://ibb.co/vxPw1x5Z"><img src="https://i.ibb.co/SXnsNXTR/Screenshot-3.png"  height="80%" width="80%" alt="steps"/>
 <br />
 <br />
 download virtualBox:  <br/>
-<img src="https://imgur.com/a/Qvo0u7t" height="80%" width="80%" 
+<img src="<a href="https://ibb.co/3mSBS0js"><img src="https://i.ibb.co/Jjr5rzGd/Screenshot-2025-02-22-184716.png" height="80%" width="80%" 
 <br />
 <br />
 execute the .ex file: <br/>
-<img src="https://imgur.com/a/fCpq0aN" height="80%" width="80%"
+<img src="<a href="https://imgbb.com/"><img src="https://i.ibb.co/7NtDyQ3b/Screenshot-2025-02-22-185019.png" height="80%" width="80%"
 <br />
 <br />
 agree to the user agreement:  <br/>
-<img src="" height="80%" width="80%" 
+<img src="<a href="https://imgbb.com/"><img src="https://i.ibb.co/rf2qYbyY/Screenshot-2025-02-22-193359.png" height="80%" width="80%" 
 <br />
 <br />
 :  <br/>
-<img src="" height="80%" width="80%" 
-<br />
-<br />
 download ubuntu desktop:  <br/>
-<img src="" height="80%" width="80%"
+<img src="<a href="https://ibb.co/v4RgLV8s"><img src="https://i.ibb.co/fdLBrq78/Screenshot-2025-02-22-193646.png" height="80%" width="80%"
 <br />
 <br />
 open VirtualBox:  <br/>
-<img src="" height="80%" width="80%" 
+<img src="<a href="https://ibb.co/3mdr5wm4"><img src="https://i.ibb.co/qYjyLzY7/Screenshot-2025-02-22-194324.png" height="80%" width="80%" 
 <br />
 <br />
 go to machine and click new:  <br/>
-<img src="" height="80%" width="80%" 
+<img src="  <a href="https://imgbb.com/"><img src="https://i.ibb.co/LfBThQ1/Screenshot-2025-02-22-195500.png" height="80%" width="80%"      
 <br />
 <br />
 name your virtual machine, and upload the Iso image:  <br/>
-<img src="" height="80%" width="80%" 
+<img src="<a href="https://ibb.co/NdkW8n9c"><img src="https://i.ibb.co/nNVQH87x/Screenshot-2025-03-02-180529.png" height="80%" width="80%" 
 <br />
 <br />
 set the properties:  <br/>
-<img src="" height="80%" width="80%" 
+<img src="<a href="https://ibb.co/zTygYwH0"><img src="https://i.ibb.co/LXLyWfh2/Screenshot-2025-03-02-180608.png" height="80%" width="80%" 
+<img src=<a href="https://ibb.co/xvfTf5p"><img src="https://i.ibb.co/83dZd8W/Screenshot-2025-03-02-180621.png" height="80%" width="80%" 
+<img src="<a href="<a href="https://ibb.co/9m4RPw1C"><img src="https://i.ibb.co/WNzSCDMY/Screenshot-2025-03-02-180631.png" height="80%" width="80%" 
 <br />
 <br />
 run the virtual machine :  <br/>
-<img src="" height="80%" width="80%" 
 <br />
 <br />
 select ubuntu safe graphics :  <br/>
-<img src="" height="80%" width="80%" 
+<img src="<a href="https://ibb.co/ynvDdnHN"><img src="https://i.ibb.co/wNGTBN5d/Screenshot-2025-03-02-134754.png" height="80%" width="80%" 
 <br />
 <br />
 Now you have Ubuntu!! :  <br/>
-<img src="" height="80%" width="80%" 
+<img src="<a href="https://ibb.co/67HWn13R"><img src="https://i.ibb.co/xt17CfpS/Screenshot-2025-03-02-181329.png" height="80%" width="80%" 
 <br />
 <br />
 
